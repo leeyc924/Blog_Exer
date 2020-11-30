@@ -1,4 +1,4 @@
-# blog_Exer
+# Blog_Exer
 
 ## frontend
 - react
